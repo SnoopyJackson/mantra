@@ -59,8 +59,8 @@ function switchCategory(category) {
         btn.classList.remove('active');
         if (btn.dataset.category === category) {
             btn.classList.add('active');
-   Load data and initialize
-loadData(
+        }
+    });
     
     // Render tiles for the new category
     renderTiles(category);
@@ -73,5 +73,5 @@ document.querySelectorAll('.category-btn').forEach(btn => {
     });
 });
 
-// Initial render
-renderTiles(currentCategory);
+// Load data and initialize
+loadData();
