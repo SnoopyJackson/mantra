@@ -1,0 +1,237 @@
+{
+    "yoga": {
+        "title": "Yoga Poses",
+        "items": [
+            {
+                "emoji": "🧘",
+                "title": "Mountain Pose (Tadasana)",
+                "description": "Stand tall with feet together, arms at sides. Ground through your feet and lengthen through the crown of your head.",
+                "benefits": [
+                    "Improves posture and body awareness",
+                    "Strengthens thighs, knees, and ankles",
+                    "Reduces flat feet"
+                ]
+            },
+            {
+                "emoji": "🙏",
+                "title": "Downward Dog (Adho Mukha Svanasana)",
+                "description": "Form an inverted V-shape with your body, hands and feet on the ground, hips lifted high.",
+                "benefits": [
+                    "Energizes the body",
+                    "Strengthens arms and legs",
+                    "Relieves back pain"
+                ]
+            },
+            {
+                "emoji": "🌳",
+                "title": "Tree Pose (Vrksasana)",
+                "description": "Balance on one leg with the other foot placed on inner thigh, hands in prayer position or overhead.",
+                "benefits": [
+                    "Improves balance and stability",
+                    "Strengthens legs and core",
+                    "Enhances focus and concentration"
+                ]
+            },
+            {
+                "emoji": "⚡",
+                "title": "Warrior I (Virabhadrasana I)",
+                "description": "Lunge position with front knee bent, back leg straight, arms extended overhead.",
+                "benefits": [
+                    "Builds strength in legs and core",
+                    "Opens hips and chest",
+                    "Improves balance and concentration"
+                ]
+            },
+            {
+                "emoji": "🦅",
+                "title": "Child's Pose (Balasana)",
+                "description": "Kneel and sit back on heels, fold forward with arms extended, forehead resting on the ground.",
+                "benefits": [
+                    "Gently stretches hips and thighs",
+                    "Calms the mind and relieves stress",
+                    "Relieves back and neck pain"
+                ]
+            },
+            {
+                "emoji": "🌙",
+                "title": "Cobra Pose (Bhujangasana)",
+                "description": "Lie face down, press through hands to lift chest, keeping hips on the ground.",
+                "benefits": [
+                    "Strengthens spine and shoulders",
+                    "Opens chest and lungs",
+                    "Relieves stress and fatigue"
+                ]
+            }
+        ]
+    },
+    "taichi": {
+        "title": "24-Form Chen Tai Chi",
+        "items": [
+            {
+                "emoji": "🌅",
+                "title": "1. Commencing Form",
+                "description": "Begin with feet together, arms hanging naturally. Slowly raise arms to shoulder height, then lower while bending knees.",
+                "benefits": [
+                    "Calms the mind and centers energy",
+                    "Establishes proper breathing",
+                    "Prepares body for movement"
+                ]
+            },
+            {
+                "emoji": "🐴",
+                "title": "2. Part the Wild Horse's Mane",
+                "description": "Step with alternating legs while moving arms in a circular motion, as if parting a horse's mane.",
+                "benefits": [
+                    "Improves leg strength and balance",
+                    "Coordinates upper and lower body",
+                    "Enhances flexibility in hips"
+                ]
+            },
+            {
+                "emoji": "🦩",
+                "title": "3. White Crane Spreads Wings",
+                "description": "Shift weight to one leg while raising opposite arm high and lowering the other, mimicking a crane.",
+                "benefits": [
+                    "Develops single-leg balance",
+                    "Opens chest and shoulders",
+                    "Improves coordination"
+                ]
+            },
+            {
+                "emoji": "🦵",
+                "title": "4. Brush Knee and Twist Step",
+                "description": "Step forward while brushing hand past knee in a circular motion and pushing opposite palm forward.",
+                "benefits": [
+                    "Strengthens legs and knees",
+                    "Improves waist flexibility",
+                    "Develops pushing power"
+                ]
+            },
+            {
+                "emoji": "🎵",
+                "title": "5. Playing the Pipa",
+                "description": "Shift weight back while bringing hands together in front of body, like holding a Chinese lute.",
+                "benefits": [
+                    "Cultivates stillness in motion",
+                    "Improves balance and posture",
+                    "Develops sensitivity in arms"
+                ]
+            },
+            {
+                "emoji": "🔄",
+                "title": "6. Reverse Reeling Forearm",
+                "description": "Step back while circling arms in a rolling motion, alternating sides.",
+                "benefits": [
+                    "Strengthens forearms and wrists",
+                    "Improves backward stepping",
+                    "Develops defensive techniques"
+                ]
+            },
+            {
+                "emoji": "🪶",
+                "title": "7. Left Grasp Bird's Tail",
+                "description": "Circular movement incorporating ward off, roll back, press, and push on the left side.",
+                "benefits": [
+                    "Comprehensive exercise for whole body",
+                    "Develops core Tai Chi energies",
+                    "Improves pushing and yielding skills"
+                ]
+            },
+            {
+                "emoji": "🕊️",
+                "title": "8. Right Grasp Bird's Tail",
+                "description": "Same as movement 7, performed on the right side.",
+                "benefits": [
+                    "Balances left and right sides",
+                    "Reinforces fundamental techniques",
+                    "Develops bilateral coordination"
+                ]
+            }
+        ]
+    },
+    "ido": {
+        "title": "Ido Portal Animal Movements",
+        "items": [
+            {
+                "emoji": "🐻",
+                "title": "Bear Crawl",
+                "description": "Move on hands and feet with hips high, opposite hand and foot moving together in a coordinated pattern.",
+                "benefits": [
+                    "Full body strength and coordination",
+                    "Improves shoulder stability",
+                    "Develops spatial awareness"
+                ]
+            },
+            {
+                "emoji": "🦎",
+                "title": "Lizard Crawl",
+                "description": "Low to the ground movement with belly close to floor, moving laterally with cross-body coordination.",
+                "benefits": [
+                    "Core strength and stability",
+                    "Hip mobility and flexibility",
+                    "Builds ground movement skills"
+                ]
+            },
+            {
+                "emoji": "🦀",
+                "title": "Crab Walk",
+                "description": "Seated position with hands behind and feet in front, lift hips and walk backwards or sideways.",
+                "benefits": [
+                    "Strengthens posterior chain",
+                    "Improves shoulder and wrist strength",
+                    "Develops reverse movement patterns"
+                ]
+            },
+            {
+                "emoji": "🐒",
+                "title": "Monkey Movement",
+                "description": "Deep squat position moving in various directions, hands touching ground for support and balance.",
+                "benefits": [
+                    "Deep squat mobility",
+                    "Leg strength and endurance",
+                    "Improves agility and playfulness"
+                ]
+            },
+            {
+                "emoji": "🦘",
+                "title": "Frog Jump",
+                "description": "From a deep squat, explosively jump forward, landing softly back into squat position.",
+                "benefits": [
+                    "Explosive leg power",
+                    "Landing mechanics",
+                    "Hip and ankle mobility"
+                ]
+            },
+            {
+                "emoji": "🐆",
+                "title": "Cat Balance",
+                "description": "Moving on hands and feet with controlled, precise movements, focusing on balance and flow.",
+                "benefits": [
+                    "Improves balance and proprioception",
+                    "Develops graceful movement",
+                    "Strengthens wrists and ankles"
+                ]
+            },
+            {
+                "emoji": "🦂",
+                "title": "Scorpion Reach",
+                "description": "From hands and feet position, extend one leg high while reaching opposite hand forward.",
+                "benefits": [
+                    "Full body integration",
+                    "Balance and coordination",
+                    "Spinal mobility and strength"
+                ]
+            },
+            {
+                "emoji": "🐺",
+                "title": "Wolf Prowl",
+                "description": "Quadrupedal movement with focused, stalking-like quality, emphasizing control and precision.",
+                "benefits": [
+                    "Movement quality and awareness",
+                    "Controlled strength development",
+                    "Mindful movement practice"
+                ]
+            }
+        ]
+    }
+}
