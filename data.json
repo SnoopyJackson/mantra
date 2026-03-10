@@ -2,234 +2,863 @@
     "yoga": {
         "title": "Yoga Poses",
         "items": [
-            {
-                "emoji": "🧘",
-                "title": "Mountain Pose (Tadasana)",
-                "description": "Stand tall with feet together, arms at sides. Ground through your feet and lengthen through the crown of your head.",
-                "benefits": [
-                    "Improves posture and body awareness",
-                    "Strengthens thighs, knees, and ankles",
-                    "Reduces flat feet"
-                ]
-            },
-            {
-                "emoji": "🙏",
-                "title": "Downward Dog (Adho Mukha Svanasana)",
-                "description": "Form an inverted V-shape with your body, hands and feet on the ground, hips lifted high.",
-                "benefits": [
-                    "Energizes the body",
-                    "Strengthens arms and legs",
-                    "Relieves back pain"
-                ]
-            },
-            {
-                "emoji": "🌳",
-                "title": "Tree Pose (Vrksasana)",
-                "description": "Balance on one leg with the other foot placed on inner thigh, hands in prayer position or overhead.",
-                "benefits": [
-                    "Improves balance and stability",
-                    "Strengthens legs and core",
-                    "Enhances focus and concentration"
-                ]
-            },
-            {
-                "emoji": "⚡",
-                "title": "Warrior I (Virabhadrasana I)",
-                "description": "Lunge position with front knee bent, back leg straight, arms extended overhead.",
-                "benefits": [
-                    "Builds strength in legs and core",
-                    "Opens hips and chest",
-                    "Improves balance and concentration"
-                ]
-            },
-            {
-                "emoji": "🦅",
-                "title": "Child's Pose (Balasana)",
-                "description": "Kneel and sit back on heels, fold forward with arms extended, forehead resting on the ground.",
-                "benefits": [
-                    "Gently stretches hips and thighs",
-                    "Calms the mind and relieves stress",
-                    "Relieves back and neck pain"
-                ]
-            },
-            {
-                "emoji": "🌙",
-                "title": "Cobra Pose (Bhujangasana)",
-                "description": "Lie face down, press through hands to lift chest, keeping hips on the ground.",
-                "benefits": [
-                    "Strengthens spine and shoulders",
-                    "Opens chest and lungs",
-                    "Relieves stress and fatigue"
-                ]
-            }
-        ]
+        {
+            "emoji": "🧘",
+            "title": "Mountain Pose (Tadasana)",
+            "description": "Stand tall with feet together, arms at sides. Ground through your feet and lengthen through the crown of your head.",
+            "benefits": ["Improves posture and body awareness", "Strengthens thighs, knees, and ankles", "Reduces flat feet"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400"
+        },
+        {
+            "emoji": "🙏",
+            "title": "Downward Dog (Adho Mukha Svanasana)",
+            "description": "Form an inverted V-shape with your body, hands and feet on the ground, hips lifted high.",
+            "benefits": ["Energizes the body", "Strengthens arms and legs", "Relieves back pain"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400"
+        },
+        {
+            "emoji": "🌳",
+            "title": "Tree Pose (Vrksasana)",
+            "description": "Balance on one leg with the other foot placed on inner thigh, hands in prayer position or overhead.",
+            "benefits": ["Improves balance and stability", "Strengthens legs and core", "Enhances focus and concentration"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400"
+        },
+        {
+            "emoji": "⚡",
+            "title": "Warrior I (Virabhadrasana I)",
+            "description": "Lunge position with front knee bent, back leg straight, arms extended overhead.",
+            "benefits": ["Builds strength in legs and core", "Opens hips and chest", "Improves balance and concentration"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=400"
+        },
+        {
+            "emoji": "🦅",
+            "title": "Child's Pose (Balasana)",
+            "description": "Kneel and sit back on heels, fold forward with arms extended, forehead resting on the ground.",
+            "benefits": ["Gently stretches hips and thighs", "Calms the mind and relieves stress", "Relieves back and neck pain"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400"
+        },
+        {
+            "emoji": "🌙",
+            "title": "Cobra Pose (Bhujangasana)",
+            "description": "Lie face down, press through hands to lift chest, keeping hips on the ground.",
+            "benefits": ["Strengthens spine and shoulders", "Opens chest and lungs", "Relieves stress and fatigue"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400"
+        },
+        {
+            "emoji": "⚔️",
+            "title": "Warrior II (Virabhadrasana II)",
+            "description": "Wide-legged stance with front knee bent over ankle, arms extended parallel to the floor, gaze over front hand.",
+            "benefits": ["Strengthens legs, groin, and shoulders", "Stimulates abdominal organs", "Increases stamina and endurance"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1603988363607-e1e4a66962c6?w=400"
+        },
+        {
+            "emoji": "🌟",
+            "title": "Warrior III (Virabhadrasana III)",
+            "description": "Balance on one leg while torso and raised leg form a horizontal T-shape, arms extended forward or at sides.",
+            "benefits": ["Builds full-body balance and stability", "Tones the abdomen and legs", "Improves posture and proprioception"],
+            "difficulty": "Intermediate",
+            "image": "https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?w=400"
+        },
+        {
+            "emoji": "🔺",
+            "title": "Triangle Pose (Trikonasana)",
+            "description": "Wide-legged stance, reach one hand down to shin or floor and the other arm straight up, forming a triangle with the body.",
+            "benefits": ["Stretches hips, groins, and hamstrings", "Strengthens thighs and back", "Stimulates digestion"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1575052814086-f385e2e2ad1b?w=400"
+        },
+        {
+            "emoji": "🌙",
+            "title": "Half Moon Pose (Ardha Chandrasana)",
+            "description": "Balance on one hand and one foot, body parallel to the floor, top arm and leg extended upward.",
+            "benefits": ["Strengthens ankles, legs, and spine", "Improves coordination and balance", "Relieves stress and mild anxiety"],
+            "difficulty": "Intermediate",
+            "image": "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=400"
+        },
+        {
+            "emoji": "🪑",
+            "title": "Chair Pose (Utkatasana)",
+            "description": "Bend knees as if sitting in an invisible chair, arms raised overhead, weight in heels.",
+            "benefits": ["Strengthens thighs, calves, and spine", "Stimulates heart and diaphragm", "Builds heat and endurance"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400"
+        },
+        {
+            "emoji": "🦋",
+            "title": "Butterfly Pose (Baddha Konasana)",
+            "description": "Sit with soles of feet pressed together and knees falling out to sides, gently fluttering knees up and down.",
+            "benefits": ["Opens inner thighs and groin", "Stimulates reproductive organs", "Soothes sciatica discomfort"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400"
+        },
+        {
+            "emoji": "🐪",
+            "title": "Camel Pose (Ustrasana)",
+            "description": "Kneel upright and arch backward, hands reaching for heels, chest lifted toward the ceiling.",
+            "benefits": ["Deeply opens the chest and hip flexors", "Strengthens back muscles", "Stimulates nervous system"],
+            "difficulty": "Intermediate",
+            "image": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400"
+        },
+        {
+            "emoji": "🌈",
+            "title": "Bridge Pose (Setu Bandhasana)",
+            "description": "Lie on back, bend knees with feet flat on floor, lift hips toward ceiling while clasping hands beneath body.",
+            "benefits": ["Strengthens glutes and hamstrings", "Opens chest and shoulders", "Calms brain and reduces anxiety"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=400"
+        },
+        {
+            "emoji": "🔥",
+            "title": "Boat Pose (Navasana)",
+            "description": "Balance on sitting bones with legs extended at 45 degrees and arms parallel to the floor, forming a V-shape.",
+            "benefits": ["Deeply strengthens core and hip flexors", "Improves balance and digestion", "Stimulates kidneys and thyroid"],
+            "difficulty": "Intermediate",
+            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400"
+        },
+        {
+            "emoji": "🦁",
+            "title": "Pigeon Pose (Eka Pada Rajakapotasana)",
+            "description": "From downward dog, bring one knee forward behind wrist, extend back leg straight, fold forward over front shin.",
+            "benefits": ["Deeply releases hip flexors and rotators", "Alleviates sciatic nerve tension", "Reduces anxiety held in hips"],
+            "difficulty": "Intermediate",
+            "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400"
+        },
+        {
+            "emoji": "🌊",
+            "title": "Seated Forward Fold (Paschimottanasana)",
+            "description": "Sit with legs extended, hinge at hips to fold forward, reaching hands toward feet while keeping spine long.",
+            "benefits": ["Stretches entire posterior chain", "Calms the nervous system", "Improves digestion and appetite"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1603988363607-e1e4a66962c6?w=400"
+        },
+        {
+            "emoji": "🔄",
+            "title": "Seated Spinal Twist (Ardha Matsyendrasana)",
+            "description": "Sit with one leg extended, cross opposite foot over knee, twist torso toward raised knee with elbow as leverage.",
+            "benefits": ["Detoxifies organs through compression and release", "Increases spinal mobility", "Stimulates liver and kidneys"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?w=400"
+        },
+        {
+            "emoji": "🦅",
+            "title": "Eagle Pose (Garudasana)",
+            "description": "Balance on one leg, wrap opposite leg around standing leg, and cross arms at elbows with forearms intertwined.",
+            "benefits": ["Strengthens calves and ankles", "Stretches shoulders and upper back", "Improves concentration and focus"],
+            "difficulty": "Intermediate",
+            "image": "https://images.unsplash.com/photo-1575052814086-f385e2e2ad1b?w=400"
+        },
+        {
+            "emoji": "🤸",
+            "title": "Wheel Pose (Urdhva Dhanurasana)",
+            "description": "Lie on back, plant hands beside ears and feet flat on floor, press up into a full backbend arch.",
+            "benefits": ["Strengthens arms, wrists, legs, and spine", "Stimulates thyroid and pituitary glands", "Energizes and uplifts mood"],
+            "difficulty": "Advanced",
+            "image": "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=400"
+        },
+        {
+            "emoji": "🙃",
+            "title": "Headstand (Sirsasana)",
+            "description": "Interlace fingers on the floor, place crown of head between hands, walk feet in and lift legs straight overhead.",
+            "benefits": ["Builds shoulder and core strength", "Reverses blood flow to refresh circulation", "Calms mind and reduces stress"],
+            "difficulty": "Advanced",
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400"
+        },
+        {
+            "emoji": "🕊️",
+            "title": "Shoulder Stand (Sarvangasana)",
+            "description": "Lie on back and lift legs and hips straight up, supporting lower back with hands, chin tucked to chest.",
+            "benefits": ["Stimulates thyroid and parathyroid glands", "Calms the nervous system", "Relieves fatigue and insomnia"],
+            "difficulty": "Advanced",
+            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400"
+        },
+        {
+            "emoji": "💪",
+            "title": "Crow Pose (Bakasana)",
+            "description": "Squat and plant hands shoulder-width apart, place knees on backs of upper arms, lean forward to balance on hands.",
+            "benefits": ["Builds arm and wrist strength", "Tones abdominal organs", "Develops focus and mental fortitude"],
+            "difficulty": "Advanced",
+            "image": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400"
+        },
+        {
+            "emoji": "🌞",
+            "title": "Upward Facing Dog (Urdhva Mukha Svanasana)",
+            "description": "Lie face down, press through palms to lift chest and thighs fully off the ground, shoulders over wrists.",
+            "benefits": ["Strengthens spine, arms, and wrists", "Stimulates abdominal organs", "Improves posture and opens chest"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=400"
+        },
+        {
+            "emoji": "🧊",
+            "title": "Corpse Pose (Savasana)",
+            "description": "Lie flat on back, legs slightly apart, arms at sides with palms up, eyes closed in total relaxation.",
+            "benefits": ["Integrates the benefits of the practice", "Deeply relaxes the nervous system", "Reduces blood pressure and anxiety"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400"
+        }
+    ]
     },
     "taichi": {
         "title": "24-Form Chen Tai Chi",
-        "items": [
-            {
-                "emoji": "🌅",
-                "title": "1. Commencing Form",
-                "description": "Begin with feet together, arms hanging naturally. Slowly raise arms to shoulder height, then lower while bending knees.",
-                "benefits": [
-                    "Calms the mind and centers energy",
-                    "Establishes proper breathing",
-                    "Prepares body for movement"
-                ]
-            },
-            {
-                "emoji": "🐴",
-                "title": "2. Part the Wild Horse's Mane",
-                "description": "Step with alternating legs while moving arms in a circular motion, as if parting a horse's mane.",
-                "benefits": [
-                    "Improves leg strength and balance",
-                    "Coordinates upper and lower body",
-                    "Enhances flexibility in hips"
-                ]
-            },
-            {
-                "emoji": "🦩",
-                "title": "3. White Crane Spreads Wings",
-                "description": "Shift weight to one leg while raising opposite arm high and lowering the other, mimicking a crane.",
-                "benefits": [
-                    "Develops single-leg balance",
-                    "Opens chest and shoulders",
-                    "Improves coordination"
-                ]
-            },
-            {
-                "emoji": "🦵",
-                "title": "4. Brush Knee and Twist Step",
-                "description": "Step forward while brushing hand past knee in a circular motion and pushing opposite palm forward.",
-                "benefits": [
-                    "Strengthens legs and knees",
-                    "Improves waist flexibility",
-                    "Develops pushing power"
-                ]
-            },
-            {
-                "emoji": "🎵",
-                "title": "5. Playing the Pipa",
-                "description": "Shift weight back while bringing hands together in front of body, like holding a Chinese lute.",
-                "benefits": [
-                    "Cultivates stillness in motion",
-                    "Improves balance and posture",
-                    "Develops sensitivity in arms"
-                ]
-            },
-            {
-                "emoji": "🔄",
-                "title": "6. Reverse Reeling Forearm",
-                "description": "Step back while circling arms in a rolling motion, alternating sides.",
-                "benefits": [
-                    "Strengthens forearms and wrists",
-                    "Improves backward stepping",
-                    "Develops defensive techniques"
-                ]
-            },
-            {
-                "emoji": "🪶",
-                "title": "7. Left Grasp Bird's Tail",
-                "description": "Circular movement incorporating ward off, roll back, press, and push on the left side.",
-                "benefits": [
-                    "Comprehensive exercise for whole body",
-                    "Develops core Tai Chi energies",
-                    "Improves pushing and yielding skills"
-                ]
-            },
-            {
-                "emoji": "🕊️",
-                "title": "8. Right Grasp Bird's Tail",
-                "description": "Same as movement 7, performed on the right side.",
-                "benefits": [
-                    "Balances left and right sides",
-                    "Reinforces fundamental techniques",
-                    "Develops bilateral coordination"
-                ]
-            }
-        ]
+         "items": [
+        {
+            "emoji": "🌅",
+            "title": "1. Commencing Form",
+            "description": "Begin with feet together, arms hanging naturally. Slowly raise arms to shoulder height, then lower while bending knees.",
+            "benefits": ["Calms the mind and centers energy", "Establishes proper breathing", "Prepares body for movement"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400"
+        },
+        {
+            "emoji": "🐴",
+            "title": "2. Part the Wild Horse's Mane",
+            "description": "Step with alternating legs while moving arms in a circular motion, as if parting a horse's mane.",
+            "benefits": ["Improves leg strength and balance", "Coordinates upper and lower body", "Enhances flexibility in hips"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400"
+        },
+        {
+            "emoji": "🦩",
+            "title": "3. White Crane Spreads Wings",
+            "description": "Shift weight to one leg while raising opposite arm high and lowering the other, mimicking a crane.",
+            "benefits": ["Develops single-leg balance", "Opens chest and shoulders", "Improves coordination"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400"
+        },
+        {
+            "emoji": "🦵",
+            "title": "4. Brush Knee and Twist Step",
+            "description": "Step forward while brushing hand past knee in a circular motion and pushing opposite palm forward.",
+            "benefits": ["Strengthens legs and knees", "Improves waist flexibility", "Develops pushing power"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=400"
+        },
+        {
+            "emoji": "🎵",
+            "title": "5. Playing the Pipa",
+            "description": "Shift weight back while bringing hands together in front of body, like holding a Chinese lute.",
+            "benefits": ["Cultivates stillness in motion", "Improves balance and posture", "Develops sensitivity in arms"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400"
+        },
+        {
+            "emoji": "🔄",
+            "title": "6. Reverse Reeling Forearm",
+            "description": "Step back while circling arms in a rolling motion, alternating sides.",
+            "benefits": ["Strengthens forearms and wrists", "Improves backward stepping", "Develops defensive techniques"],
+            "difficulty": "Intermediate",
+            "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400"
+        },
+        {
+            "emoji": "🪶",
+            "title": "7. Left Grasp Bird's Tail",
+            "description": "Circular movement incorporating ward off, roll back, press, and push on the left side.",
+            "benefits": ["Comprehensive exercise for whole body", "Develops core Tai Chi energies", "Improves pushing and yielding skills"],
+            "difficulty": "Intermediate",
+            "image": "https://images.unsplash.com/photo-1603988363607-e1e4a66962c6?w=400"
+        },
+        {
+            "emoji": "🕊️",
+            "title": "8. Right Grasp Bird's Tail",
+            "description": "Same as movement 7, performed on the right side.",
+            "benefits": ["Balances left and right sides", "Reinforces fundamental techniques", "Develops bilateral coordination"],
+            "difficulty": "Intermediate",
+            "image": "https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?w=400"
+        },
+        {
+            "emoji": "🤸",
+            "title": "9. Single Whip",
+            "description": "Extend one arm out as a 'hook' hand while the other palm pushes forward, stepping wide into a bow stance.",
+            "benefits": ["Stretches entire body laterally", "Develops 'peng' (ward-off) energy", "Strengthens legs in wide stance"],
+            "difficulty": "Intermediate",
+            "image": "https://images.unsplash.com/photo-1575052814086-f385e2e2ad1b?w=400"
+        },
+        {
+            "emoji": "🌊",
+            "title": "10. Wave Hands Like Clouds",
+            "description": "Shift weight side to side while hands move in slow, overlapping horizontal circles at chest and waist height.",
+            "benefits": ["Loosens waist and hips", "Develops fluid whole-body movement", "Improves lateral balance"],
+            "difficulty": "Intermediate",
+            "image": "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=400"
+        },
+        {
+            "emoji": "🤸",
+            "title": "11. Single Whip (Repeat)",
+            "description": "Repeat of Single Whip, consolidating the technique on both sides from Cloud Hands transition.",
+            "benefits": ["Reinforces Single Whip technique", "Builds consistency in hook hand", "Transitions smoothly from cloud hands"],
+            "difficulty": "Intermediate",
+            "image": "https://images.unsplash.com/photo-1575052814086-f385e2e2ad1b?w=400"
+        },
+        {
+            "emoji": "🦅",
+            "title": "12. High Pat on Horse",
+            "description": "Shift weight back while one hand sweeps down and the other rises to press forward at face height, as if patting a tall horse.",
+            "benefits": ["Improves upper-body coordination", "Develops forward press technique", "Strengthens rear leg stance"],
+            "difficulty": "Intermediate",
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400"
+        },
+        {
+            "emoji": "👟",
+            "title": "13. Right Heel Kick",
+            "description": "Bring hands together in front of chest, then separate them outward while kicking with the right heel.",
+            "benefits": ["Strengthens hip flexors", "Develops balance on one leg", "Improves kicking power and precision"],
+            "difficulty": "Advanced",
+            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400"
+        },
+        {
+            "emoji": "🥊",
+            "title": "14. Strike Opponent's Ears with Fists",
+            "description": "Drop into bow stance while both fists arc inward to strike simultaneously at ear level.",
+            "benefits": ["Develops bilateral striking coordination", "Builds arm and shoulder strength", "Improves offensive power"],
+            "difficulty": "Advanced",
+            "image": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400"
+        },
+        {
+            "emoji": "🦶",
+            "title": "15. Left Heel Kick",
+            "description": "Mirror of movement 13 — hands come together then separate as the left heel kicks outward.",
+            "benefits": ["Balances right-side kicking", "Challenges single-leg stability", "Develops left-side power"],
+            "difficulty": "Advanced",
+            "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=400"
+        },
+        {
+            "emoji": "🐍",
+            "title": "16. Snake Creeps Down / Golden Cock Stands on Left Leg",
+            "description": "Sink deeply into a low squat along one leg while the other extends, then rise into a single-leg stand with knee raised.",
+            "benefits": ["Builds deep leg and hip strength", "Improves extreme low-stance flexibility", "Develops explosive rising power"],
+            "difficulty": "Advanced",
+            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400"
+        },
+        {
+            "emoji": "🐓",
+            "title": "17. Golden Cock Stands on Right Leg",
+            "description": "Repeat of the Snake Creeps Down transition, rising into a single-leg stand on the right side.",
+            "benefits": ["Balances left-side golden cock", "Reinforces single-leg rooting", "Strengthens right hip flexors"],
+            "difficulty": "Advanced",
+            "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400"
+        },
+        {
+            "emoji": "🔃",
+            "title": "18. Fair Lady Works Shuttles (Left & Right)",
+            "description": "Alternating diagonal steps with one arm raised overhead to block and the other pushing forward, performed on four corners.",
+            "benefits": ["Develops diagonal movement skill", "Coordinates blocking and striking", "Improves multi-directional awareness"],
+            "difficulty": "Advanced",
+            "image": "https://images.unsplash.com/photo-1603988363607-e1e4a66962c6?w=400"
+        },
+        {
+            "emoji": "🪡",
+            "title": "19. Needle at Sea Bottom",
+            "description": "Shift weight back and dip forward with one hand pointing straight down toward the ground, like threading a needle into the sea.",
+            "benefits": ["Stretches spine and hamstrings", "Develops downward pointing technique", "Improves focus and precision"],
+            "difficulty": "Intermediate",
+            "image": "https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?w=400"
+        },
+        {
+            "emoji": "🌀",
+            "title": "20. Flash the Back",
+            "description": "Rise from needle posture, step forward, and raise both arms — one overhead and one to the side — in an expansive open posture.",
+            "benefits": ["Opens chest and lungs fully", "Develops upward expansive energy", "Transitions power from low to high"],
+            "difficulty": "Intermediate",
+            "image": "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=400"
+        },
+        {
+            "emoji": "👊",
+            "title": "21. Turn, Deflect, Parry and Punch",
+            "description": "Pivot to turn around, deflect an incoming strike, parry with one arm, then deliver a straight punch.",
+            "benefits": ["Integrates turning with striking", "Develops combat application awareness", "Trains sequential defensive techniques"],
+            "difficulty": "Advanced",
+            "image": "https://images.unsplash.com/photo-1575052814086-f385e2e2ad1b?w=400"
+        },
+        {
+            "emoji": "🤲",
+            "title": "22. Apparent Close-Up",
+            "description": "Withdraw both hands under the extended arm, then push both palms forward explosively into a bow stance.",
+            "benefits": ["Develops two-handed push power", "Trains withdraw-then-release technique", "Builds whole-body coordinated force"],
+            "difficulty": "Intermediate",
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400"
+        },
+        {
+            "emoji": "✋",
+            "title": "23. Cross Hands",
+            "description": "Step to shoulder width while crossing both wrists in front of the chest, then open slightly in a calm, centered posture.",
+            "benefits": ["Settles and integrates energy", "Returns to a centered, balanced state", "Prepares body for closing form"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400"
+        },
+        {
+            "emoji": "🌙",
+            "title": "24. Closing Form",
+            "description": "Lower arms slowly to sides while straightening the legs, returning to the natural standing posture of the commencing form.",
+            "benefits": ["Consolidates and seals in qi", "Returns body to resting equilibrium", "Completes the meditative cycle"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=400"
+        }
+    ]
     },
+    "meditation": {
+    "title": "Meditation & Breathing Practices",
+    "items": [
+        {
+            "emoji": "🎙️",
+            "title": "Guided Meditation",
+            "description": "Follow a teacher's voice through visualization, body scans, or relaxation sequences. Ideal for beginners who benefit from external direction.",
+            "benefits": ["Reduces anxiety and stress", "Builds foundational meditation habits", "Improves sleep quality"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400"
+        },
+        {
+            "emoji": "🌬️",
+            "title": "DMT Breathing (Holotropic)",
+            "description": "Rapid, rhythmic breathing sustained for 20–30 minutes to alter brain chemistry and induce non-ordinary states of consciousness.",
+            "benefits": ["Releases deeply stored emotional tension", "Induces visionary inner experiences", "Promotes psychological breakthroughs"],
+            "difficulty": "Advanced",
+            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400"
+        },
+        {
+            "emoji": "❄️",
+            "title": "Wim Hof Method",
+            "description": "30–40 deep power breaths followed by a breath retention on empty lungs, then a recovery breath held for 15 seconds. Repeat 3–4 rounds.",
+            "benefits": ["Increases cold tolerance and immunity", "Boosts energy and mental clarity", "Reduces inflammation markers"],
+            "difficulty": "Intermediate",
+            "image": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400"
+        },
+        {
+            "emoji": "🔥",
+            "title": "Breath of Fire (Kapalabhati)",
+            "description": "Rapid, rhythmic pumping exhales through the nose driven by sharp abdominal contractions, with passive inhales. Sustained for 1–3 minutes.",
+            "benefits": ["Energizes and detoxifies the body", "Strengthens the diaphragm and core", "Clears sinuses and respiratory tract"],
+            "difficulty": "Intermediate",
+            "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=400"
+        },
+        {
+            "emoji": "📦",
+            "title": "Box Breathing (Sama Vritti)",
+            "description": "Inhale for 4 counts, hold for 4, exhale for 4, hold for 4. Repeat for 4–8 cycles. Used by Navy SEALs and athletes for stress regulation.",
+            "benefits": ["Rapidly calms the nervous system", "Improves focus under pressure", "Stabilizes heart rate variability"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400"
+        },
+        {
+            "emoji": "👃",
+            "title": "Alternate Nostril Breathing (Nadi Shodhana)",
+            "description": "Use the thumb and ring finger to alternate closing each nostril, breathing in one side and out the other in a continuous cycle.",
+            "benefits": ["Balances left and right brain hemispheres", "Lowers heart rate and blood pressure", "Clears energetic channels (nadis)"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400"
+        },
+        {
+            "emoji": "🌊",
+            "title": "Ocean Breath (Ujjayi)",
+            "description": "Slightly constrict the back of the throat while breathing through the nose, creating an audible ocean-wave sound on both inhale and exhale.",
+            "benefits": ["Heats the body from within", "Anchors attention during yoga or movement", "Soothes the nervous system"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1603988363607-e1e4a66962c6?w=400"
+        },
+        {
+            "emoji": "😮",
+            "title": "Sitali Cooling Breath",
+            "description": "Roll the tongue into a tube and inhale through it like a straw, then close the mouth and exhale slowly through the nose.",
+            "benefits": ["Cools the body in heat or fever", "Reduces anger and agitation", "Lowers blood pressure"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?w=400"
+        },
+        {
+            "emoji": "🐝",
+            "title": "Humming Bee Breath (Bhramari)",
+            "description": "Close ears with thumbs and eyes with fingers, then hum on the exhale like a bee, creating internal resonance throughout the skull.",
+            "benefits": ["Instantly reduces anxiety and anger", "Stimulates the vagus nerve", "Improves concentration and memory"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1575052814086-f385e2e2ad1b?w=400"
+        },
+        {
+            "emoji": "🧠",
+            "title": "Mindfulness Meditation (Vipassana)",
+            "description": "Sit still and observe the breath, bodily sensations, thoughts, and emotions with complete non-judgmental awareness as they arise and pass.",
+            "benefits": ["Rewires neural pathways for calm", "Develops equanimity and emotional resilience", "Reduces chronic pain perception"],
+            "difficulty": "Intermediate",
+            "image": "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=400"
+        },
+        {
+            "emoji": "❤️",
+            "title": "Loving-Kindness Meditation (Metta)",
+            "description": "Silently repeat phrases of goodwill — 'May I be happy, may I be safe' — first toward yourself, then expanding outward to others and all beings.",
+            "benefits": ["Increases compassion and empathy", "Reduces self-criticism and depression", "Strengthens social connectedness"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400"
+        },
+        {
+            "emoji": "🕯️",
+            "title": "Candle Gazing (Trataka)",
+            "description": "Fix your unblinking gaze on a candle flame for 5–15 minutes. When eyes water, close them and visualize the flame between the eyebrows.",
+            "benefits": ["Strengthens eyes and optic nerves", "Develops one-pointed concentration", "Activates the third eye (Ajna chakra)"],
+            "difficulty": "Intermediate",
+            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400"
+        },
+        {
+            "emoji": "🔁",
+            "title": "4-7-8 Breathing",
+            "description": "Inhale quietly through the nose for 4 counts, hold for 7, then exhale completely through the mouth for 8 counts. Repeat 4 cycles.",
+            "benefits": ["Acts as a natural tranquilizer", "Reduces insomnia and anxiety", "Lowers sympathetic nervous system arousal"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400"
+        },
+        {
+            "emoji": "🔮",
+            "title": "Transcendental Meditation (TM)",
+            "description": "Silently repeat a personal mantra for 20 minutes twice daily, allowing the mind to settle into a state of restful alertness beyond thought.",
+            "benefits": ["Reduces cortisol and blood pressure", "Improves creativity and problem-solving", "Produces deep rest deeper than sleep"],
+            "difficulty": "Intermediate",
+            "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=400"
+        },
+        {
+            "emoji": "🌸",
+            "title": "Body Scan Meditation",
+            "description": "Lie down and slowly move awareness through each region of the body from toes to crown, observing sensations without trying to change them.",
+            "benefits": ["Releases physical tension and holding patterns", "Reconnects mind with body", "Reduces chronic pain and insomnia"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400"
+        },
+        {
+            "emoji": "🌀",
+            "title": "Kundalini Meditation",
+            "description": "Combines specific breath patterns, mudras, mantras, and eye positions in timed sequences to awaken latent energy at the base of the spine.",
+            "benefits": ["Activates dormant energy centers", "Produces profound altered states", "Transforms habitual mental patterns"],
+            "difficulty": "Advanced",
+            "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400"
+        },
+        {
+            "emoji": "🚶",
+            "title": "Walking Meditation (Kinhin)",
+            "description": "Walk at an extremely slow pace, synchronizing each small step with the breath and maintaining full attention on the sensation of movement.",
+            "benefits": ["Integrates mindfulness into daily movement", "Grounds scattered or anxious energy", "Accessible for those unable to sit still"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1603988363607-e1e4a66962c6?w=400"
+        },
+        {
+            "emoji": "🎵",
+            "title": "Sound Bath / Nada Yoga",
+            "description": "Immerse in sustained tones from singing bowls, gongs, or drones. Breathe slowly and allow the vibrations to dissolve mental chatter.",
+            "benefits": ["Deeply relaxes the nervous system via sound resonance", "Reduces cortisol and muscle tension", "Facilitates theta brainwave states"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?w=400"
+        },
+        {
+            "emoji": "☁️",
+            "title": "Yoga Nidra (Yogic Sleep)",
+            "description": "Lie in savasana and follow guided prompts through the hypnagogic state between waking and sleep, maintaining a thread of conscious awareness.",
+            "benefits": ["One hour equals four hours of sleep in restoration", "Heals trauma and emotional wounds", "Reprograms subconscious beliefs"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1575052814086-f385e2e2ad1b?w=400"
+        },
+        {
+            "emoji": "🌬️",
+            "title": "Coherent Breathing (5-5)",
+            "description": "Breathe in for exactly 5 seconds and out for exactly 5 seconds — roughly 6 breaths per minute — the optimal rate for heart rate variability.",
+            "benefits": ["Maximizes heart rate variability", "Synchronizes respiratory and cardiovascular systems", "Reduces PTSD and depression symptoms"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=400"
+        },
+        {
+            "emoji": "🪬",
+            "title": "Zen Sitting (Zazen)",
+            "description": "Sit in precise posture on a zafu, eyes half-open downward, simply allowing thoughts to arise and dissolve without engagement — just sitting.",
+            "benefits": ["Cultivates profound stillness and 'just being'", "Dissolves the boundary between meditator and meditation", "Develops iron-willed mental discipline"],
+            "difficulty": "Advanced",
+            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400"
+        },
+        {
+            "emoji": "💨",
+            "title": "Bellows Breath (Bhastrika)",
+            "description": "Forceful, rapid inhales AND exhales through the nose driven by full chest and belly expansion, like a blacksmith's bellows. Done in rounds of 20.",
+            "benefits": ["Supercharges the body with oxygen", "Clears stagnant energy from the lungs", "Prepares body for deeper pranayama"],
+            "difficulty": "Intermediate",
+            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400"
+        },
+        {
+            "emoji": "🌕",
+            "title": "Full Moon / Open Awareness Meditation",
+            "description": "Sit under the open sky or by a window and let awareness expand in all directions simultaneously, like the light of the full moon — receiving everything, grasping nothing.",
+            "benefits": ["Dissolves the sense of a bounded self", "Cultivates non-dual open awareness", "Deeply restoring and expansive"],
+            "difficulty": "Advanced",
+            "image": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400"
+        },
+        {
+            "emoji": "⚗️",
+            "title": "Tummo Inner Fire Meditation",
+            "description": "Tibetan tantric practice combining breath retentions, visualizations of inner flame at the navel, and body locks (bandhas) to generate intense internal heat.",
+            "benefits": ["Generates powerful physical warmth", "Awakens subtle body energies", "Foundation of all Tibetan completion-stage practices"],
+            "difficulty": "Advanced",
+            "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=400"
+        },
+        {
+            "emoji": "🌿",
+            "title": "Breath Awareness (Anapanasati)",
+            "description": "The original breath meditation taught by the Buddha — simply observe the natural breath at the nostrils, noticing each inhale, exhale, and the pauses between.",
+            "benefits": ["Foundational path to liberation in Buddhist tradition", "Develops profound present-moment awareness", "Gradually stills all mental agitation"],
+            "difficulty": "Beginner",
+            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400"
+        }
+    ]
+},
     "ido": {
-        "title": "Ido Portal Animal Movements",
+        "title": "Animal Movement Flow",
         "items": [
             {
                 "emoji": "🐻",
                 "title": "Bear Crawl",
-                "description": "Move on hands and feet with hips high, opposite hand and foot moving together in a coordinated pattern.",
+                "description": "Quadrupedal movement with hips high, opposite hand and foot advancing together. Keep arms and legs straight, core braced, and move with rhythm.",
+                "difficulty": "Beginner",
+                "image": "images/bear.webp",
                 "benefits": [
                     "Full body strength and coordination",
-                    "Improves shoulder stability",
-                    "Develops spatial awareness"
+                    "Improves shoulder stability and endurance",
+                    "Develops spatial awareness and locomotion"
                 ]
             },
             {
                 "emoji": "🦎",
                 "title": "Lizard Crawl",
-                "description": "Low to the ground movement with belly close to floor, moving laterally with cross-body coordination.",
+                "description": "Stay low to the ground with chest and belly nearly touching the floor. Move with ipsilateral coordination — same-side hand and foot advance together.",
+                "difficulty": "Intermediate",
+                "image": "images/lizard.jpg",
                 "benefits": [
-                    "Core strength and stability",
-                    "Hip mobility and flexibility",
-                    "Builds ground movement skills"
+                    "Core strength and anti-rotation stability",
+                    "Hip mobility and adductor flexibility",
+                    "Builds ground movement confidence"
                 ]
             },
             {
                 "emoji": "🦀",
                 "title": "Crab Walk",
-                "description": "Seated position with hands behind and feet in front, lift hips and walk backwards or sideways.",
+                "description": "Face up with hands behind you and feet flat on the floor. Lift hips high and walk forwards, backwards, or laterally with controlled steps.",
+                "difficulty": "Beginner",
+                "image": "images/crab.jpg",
                 "benefits": [
-                    "Strengthens posterior chain",
-                    "Improves shoulder and wrist strength",
-                    "Develops reverse movement patterns"
+                    "Strengthens posterior chain and glutes",
+                    "Improves shoulder extension and wrist strength",
+                    "Develops reverse locomotion patterns"
                 ]
             },
             {
                 "emoji": "🐒",
-                "title": "Monkey Movement",
-                "description": "Deep squat position moving in various directions, hands touching ground for support and balance.",
+                "title": "Ape Reach",
+                "description": "From a deep squat, shift laterally by reaching one hand to the ground while the other sweeps overhead. Travel side to side with fluid transitions.",
+                "difficulty": "Intermediate",
+                "image": "images/ape.jpg",
                 "benefits": [
-                    "Deep squat mobility",
-                    "Leg strength and endurance",
-                    "Improves agility and playfulness"
+                    "Deep squat mobility and lateral movement",
+                    "Hip and thoracic spine rotation",
+                    "Improves agility and playful exploration"
                 ]
             },
             {
-                "emoji": "🦘",
+                "emoji": "🐸",
                 "title": "Frog Jump",
-                "description": "From a deep squat, explosively jump forward, landing softly back into squat position.",
+                "description": "From a deep squat with hands on the ground, explosively jump forward, extending fully before landing softly back into squat.",
+                "difficulty": "Beginner",
+                "image": "images/frog.jpg",
                 "benefits": [
-                    "Explosive leg power",
-                    "Landing mechanics",
-                    "Hip and ankle mobility"
+                    "Explosive lower body power",
+                    "Landing mechanics and deceleration control",
+                    "Hip and ankle mobility under load"
                 ]
             },
             {
                 "emoji": "🐆",
-                "title": "Cat Balance",
-                "description": "Moving on hands and feet with controlled, precise movements, focusing on balance and flow.",
+                "title": "Panther Crawl",
+                "description": "Hands and feet on the ground with knees hovering just an inch off the floor. Move slowly and silently with contralateral limb coordination.",
+                "difficulty": "Beginner",
+                "image": "images/panther.jpg",
                 "benefits": [
-                    "Improves balance and proprioception",
-                    "Develops graceful movement",
-                    "Strengthens wrists and ankles"
+                    "Deep core activation and anti-extension",
+                    "Develops crawling endurance",
+                    "Strengthens wrists, shoulders, and quads"
                 ]
             },
             {
                 "emoji": "🦂",
                 "title": "Scorpion Reach",
-                "description": "From hands and feet position, extend one leg high while reaching opposite hand forward.",
+                "description": "From a prone push-up position, thread one leg under your body and across while rotating the hips, reaching the foot toward the opposite hand.",
+                "difficulty": "Intermediate",
+                "image": "images/scorpion.jpg",
                 "benefits": [
-                    "Full body integration",
-                    "Balance and coordination",
-                    "Spinal mobility and strength"
+                    "Thoracic and hip rotational mobility",
+                    "Full body integration and coordination",
+                    "Spinal mobility and shoulder stability"
                 ]
             },
             {
-                "emoji": "🐺",
-                "title": "Wolf Prowl",
-                "description": "Quadrupedal movement with focused, stalking-like quality, emphasizing control and precision.",
+                "emoji": "🦧",
+                "title": "Gorilla Shuffle",
+                "description": "Hinge at the hips, plant both hands on the ground, then hop both feet forward or laterally. Repeat with alternating hand placement.",
+                "difficulty": "Intermediate",
+                "image": "images/gorilla.jpg",
                 "benefits": [
-                    "Movement quality and awareness",
-                    "Controlled strength development",
-                    "Mindful movement practice"
+                    "Upper body and grip strength",
+                    "Hip hinge mobility under load",
+                    "Develops explosive lateral transitions"
+                ]
+            },
+            {
+                "emoji": "🕷️",
+                "title": "Spider Crawl",
+                "description": "From a deep push-up position, bring one knee wide toward the same-side elbow as you advance the opposite hand, creating a sprawling spider-like gait.",
+                "difficulty": "Intermediate",
+                "image": "images/spider.jpg",
+                "benefits": [
+                    "Hip adductor and flexor mobility",
+                    "Core anti-rotation and stability",
+                    "Full body coordination under tension"
+                ]
+            },
+            {
+                "emoji": "🐍",
+                "title": "Snake Roll",
+                "description": "Lie on the ground and use undulating spinal waves to roll and travel, initiating movement from the hips or shoulders without using hands or feet.",
+                "difficulty": "Advanced",
+                "image": "",
+                "benefits": [
+                    "Spinal segmental mobility and awareness",
+                    "Core activation without limb support",
+                    "Develops body wave and flow mechanics"
+                ]
+            },
+            {
+                "emoji": "🐢",
+                "title": "Turtle Roll",
+                "description": "Curl into a tight ball on your back (shell position), then use momentum and core control to roll onto your front and back again without using hands.",
+                "difficulty": "Beginner",
+                "image": "",
+                "benefits": [
+                    "Spinal mobility and flexion control",
+                    "Vestibular system development",
+                    "Teaches falling and recovery mechanics"
+                ]
+            },
+            {
+                "emoji": "🦁",
+                "title": "Lion Stretch",
+                "description": "From a low lunge position, sink hips deep and extend arms forward along the ground like a lion stretching after rest, then push up into an arching backbend.",
+                "difficulty": "Beginner",
+                "image": "",
+                "benefits": [
+                    "Hip flexor and thoracic extension stretch",
+                    "Chest and shoulder opening",
+                    "Active recovery and cooldown movement"
+                ]
+            },
+            {
+                "emoji": "🐙",
+                "title": "Octopus Roll",
+                "description": "From seated, roll to one side using fluid, circular limb movements, transitioning through positions while keeping constant multi-directional motion.",
+                "difficulty": "Advanced",
+                "image": "",
+                "benefits": [
+                    "Multi-planar rotational mobility",
+                    "Flow state and creative movement",
+                    "Spatial awareness and limb independence"
+                ]
+            },
+            {
+                "emoji": "🦘",
+                "title": "Kangaroo Bound",
+                "description": "From standing, drop into a squat and perform consecutive broad jumps with powerful hip extension, swinging arms for momentum.",
+                "difficulty": "Intermediate",
+                "image": "",
+                "benefits": [
+                    "Plyometric power and elastic recoil",
+                    "Hip and knee joint loading capacity",
+                    "Cardiovascular conditioning"
+                ]
+            },
+            {
+                "emoji": "🦩",
+                "title": "Flamingo Stand",
+                "description": "Balance on one leg with eyes closed while performing slow, controlled arm and free-leg movements in all three planes of motion.",
+                "difficulty": "Beginner",
+                "image": "",
+                "benefits": [
+                    "Proprioception and ankle stability",
+                    "Single-leg balance endurance",
+                    "Vestibular system training"
+                ]
+            },
+            {
+                "emoji": "🐉",
+                "title": "Dragon Twist",
+                "description": "From a deep lunge, rotate your torso toward the front leg, reaching the top arm skyward. Flow between sides in a continuous, spiraling pattern.",
+                "difficulty": "Intermediate",
+                "image": "",
+                "benefits": [
+                    "Deep hip flexor and hamstring stretch",
+                    "Thoracic rotation under load",
+                    "Integrates strength with flexibility"
+                ]
+            },
+            {
+                "emoji": "🐛",
+                "title": "Inchworm Walk",
+                "description": "From standing, fold forward and walk hands out to a push-up position, then walk feet toward hands. Repeat in a continuous wave-like motion.",
+                "difficulty": "Beginner",
+                "image": "",
+                "benefits": [
+                    "Posterior chain flexibility",
+                    "Core stabilization during transitions",
+                    "Dynamic warm-up and movement prep"
+                ]
+            },
+            {
+                "emoji": "🐎",
+                "title": "Horse Stance Walk",
+                "description": "Hold a wide, low horse stance and walk laterally with controlled steps, keeping hips level and thighs parallel to the ground.",
+                "difficulty": "Intermediate",
+                "image": "",
+                "benefits": [
+                    "Isometric leg strength and endurance",
+                    "Adductor and hip stability",
+                    "Mental toughness and breath control"
+                ]
+            },
+            {
+                "emoji": "🦈",
+                "title": "Shark Roll",
+                "description": "From a prone position, initiate a powerful lateral roll using a full body wave, transitioning seamlessly between prone and supine.",
+                "difficulty": "Advanced",
+                "image": "",
+                "benefits": [
+                    "Ground flow and transitional skill",
+                    "Oblique and lateral chain strength",
+                    "Body control at ground level"
+                ]
+            },
+            {
+                "emoji": "🦎",
+                "title": "Chameleon Reach",
+                "description": "From a low squat, slowly extend one leg behind while reaching the opposite arm far forward, holding the end position with stillness and control.",
+                "difficulty": "Intermediate",
+                "image": "",
+                "benefits": [
+                    "Single-leg squat strength",
+                    "Contralateral balance and stability",
+                    "Patience and positional control"
+                ]
+            },
+            {
+                "emoji": "🐂",
+                "title": "Bull Rush",
+                "description": "From a bent-over position, drive forward explosively with short, powerful steps, hands near the ground, simulating a charging motion.",
+                "difficulty": "Advanced",
+                "image": "",
+                "benefits": [
+                    "Explosive acceleration and drive",
+                    "Posterior chain power output",
+                    "Conditioning and anaerobic capacity"
                 ]
             }
         ]

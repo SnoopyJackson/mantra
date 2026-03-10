@@ -33,11 +33,21 @@ function renderTiles(category) {
         tile.className = 'tile';
         tile.style.animationDelay = `${index * 0.1}s`;
         
+        const difficultyClass = item.difficulty ? `difficulty-${item.difficulty.toLowerCase()}` : '';
+        const difficultyBadge = item.difficulty ? `<span class="tile-difficulty ${difficultyClass}">${item.difficulty}</span>` : '';
+
+        const imageContent = item.image
+            ? `<div class="tile-image"><img src="${item.image}" alt="${item.title}" loading="lazy"></div>`
+            : `<div class="tile-image"><span class="tile-image-placeholder">Image placeholder</span></div>`;
+
         tile.innerHTML = `
-            <div class="tile-emoji">${item.emoji}</div>
+            <div class="tile-header">
+                <div class="tile-emoji">${item.emoji}</div>
+                ${difficultyBadge}
+            </div>
             <h3 class="tile-title">${item.title}</h3>
             <p class="tile-description">${item.description}</p>
-            <div class="tile-image">Image placeholder</div>
+            ${imageContent}
             <div class="tile-benefits">
                 <h4>Benefits:</h4>
                 <ul>
