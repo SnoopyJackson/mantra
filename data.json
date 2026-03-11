@@ -410,7 +410,7 @@
             "description": "Follow a teacher's voice through visualization, body scans, or relaxation sequences. Ideal for beginners who benefit from external direction.",
             "benefits": ["Reduces anxiety and stress", "Builds foundational meditation habits", "Improves sleep quality"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400"
+            "image": "images/guided_meditation.jpg"
         },
         {
             "emoji": "🌬️",
@@ -418,7 +418,7 @@
             "description": "Rapid, rhythmic breathing sustained for 20–30 minutes to alter brain chemistry and induce non-ordinary states of consciousness.",
             "benefits": ["Releases deeply stored emotional tension", "Induces visionary inner experiences", "Promotes psychological breakthroughs"],
             "difficulty": "Advanced",
-            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400"
+            "image": "images/dmt_breathing.jpg"
         },
         {
             "emoji": "❄️",
@@ -426,7 +426,7 @@
             "description": "30–40 deep power breaths followed by a breath retention on empty lungs, then a recovery breath held for 15 seconds. Repeat 3–4 rounds.",
             "benefits": ["Increases cold tolerance and immunity", "Boosts energy and mental clarity", "Reduces inflammation markers"],
             "difficulty": "Intermediate",
-            "image": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400"
+            "image": "images/wim_hof_method.jpg"
         },
         {
             "emoji": "🔥",
@@ -434,7 +434,7 @@
             "description": "Rapid, rhythmic pumping exhales through the nose driven by sharp abdominal contractions, with passive inhales. Sustained for 1–3 minutes.",
             "benefits": ["Energizes and detoxifies the body", "Strengthens the diaphragm and core", "Clears sinuses and respiratory tract"],
             "difficulty": "Intermediate",
-            "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=400"
+            "image": "images/breath_of_fire.jpg"
         },
         {
             "emoji": "📦",
@@ -442,7 +442,7 @@
             "description": "Inhale for 4 counts, hold for 4, exhale for 4, hold for 4. Repeat for 4–8 cycles. Used by Navy SEALs and athletes for stress regulation.",
             "benefits": ["Rapidly calms the nervous system", "Improves focus under pressure", "Stabilizes heart rate variability"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400"
+            "image": "images/box_breathing.jpg"
         },
         {
             "emoji": "👃",
@@ -450,7 +450,7 @@
             "description": "Use the thumb and ring finger to alternate closing each nostril, breathing in one side and out the other in a continuous cycle.",
             "benefits": ["Balances left and right brain hemispheres", "Lowers heart rate and blood pressure", "Clears energetic channels (nadis)"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400"
+            "image": "images/alternate_nostril_breathing.png"
         },
         {
             "emoji": "🌊",
@@ -458,7 +458,7 @@
             "description": "Slightly constrict the back of the throat while breathing through the nose, creating an audible ocean-wave sound on both inhale and exhale.",
             "benefits": ["Heats the body from within", "Anchors attention during yoga or movement", "Soothes the nervous system"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1603988363607-e1e4a66962c6?w=400"
+            "image": "images/ocean_breath.jpg"
         },
         {
             "emoji": "😮",
@@ -466,7 +466,7 @@
             "description": "Roll the tongue into a tube and inhale through it like a straw, then close the mouth and exhale slowly through the nose.",
             "benefits": ["Cools the body in heat or fever", "Reduces anger and agitation", "Lowers blood pressure"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?w=400"
+            "image": "images/sitali_cooling_breath.jpg"
         },
         {
             "emoji": "🐝",
@@ -474,7 +474,7 @@
             "description": "Close ears with thumbs and eyes with fingers, then hum on the exhale like a bee, creating internal resonance throughout the skull.",
             "benefits": ["Instantly reduces anxiety and anger", "Stimulates the vagus nerve", "Improves concentration and memory"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1575052814086-f385e2e2ad1b?w=400"
+            "image": "images/humming_bee_breath.jpg"
         },
         {
             "emoji": "🧠",
@@ -482,7 +482,7 @@
             "description": "Sit still and observe the breath, bodily sensations, thoughts, and emotions with complete non-judgmental awareness as they arise and pass.",
             "benefits": ["Rewires neural pathways for calm", "Develops equanimity and emotional resilience", "Reduces chronic pain perception"],
             "difficulty": "Intermediate",
-            "image": "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=400"
+            "image": "images/mindfulness_meditation.jpg"
         },
         {
             "emoji": "❤️",
@@ -490,7 +490,7 @@
             "description": "Silently repeat phrases of goodwill — 'May I be happy, may I be safe' — first toward yourself, then expanding outward to others and all beings.",
             "benefits": ["Increases compassion and empathy", "Reduces self-criticism and depression", "Strengthens social connectedness"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400"
+            "image": "images/loving_kindness_meditation.jpg"
         },
         {
             "emoji": "🕯️",
@@ -498,7 +498,7 @@
             "description": "Fix your unblinking gaze on a candle flame for 5–15 minutes. When eyes water, close them and visualize the flame between the eyebrows.",
             "benefits": ["Strengthens eyes and optic nerves", "Develops one-pointed concentration", "Activates the third eye (Ajna chakra)"],
             "difficulty": "Intermediate",
-            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400"
+            "image": "images/candle_gazing.jpg"
         },
         {
             "emoji": "🔁",
@@ -506,7 +506,7 @@
             "description": "Inhale quietly through the nose for 4 counts, hold for 7, then exhale completely through the mouth for 8 counts. Repeat 4 cycles.",
             "benefits": ["Acts as a natural tranquilizer", "Reduces insomnia and anxiety", "Lowers sympathetic nervous system arousal"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400"
+            "image": "images/4_7_8_breathing.jpg"
         },
         {
             "emoji": "🔮",
@@ -514,7 +514,7 @@
             "description": "Silently repeat a personal mantra for 20 minutes twice daily, allowing the mind to settle into a state of restful alertness beyond thought.",
             "benefits": ["Reduces cortisol and blood pressure", "Improves creativity and problem-solving", "Produces deep rest deeper than sleep"],
             "difficulty": "Intermediate",
-            "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=400"
+            "image": "imagesa/transcendental_meditation.jpg"
         },
         {
             "emoji": "🌸",
@@ -522,7 +522,7 @@
             "description": "Lie down and slowly move awareness through each region of the body from toes to crown, observing sensations without trying to change them.",
             "benefits": ["Releases physical tension and holding patterns", "Reconnects mind with body", "Reduces chronic pain and insomnia"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400"
+            "image": "images/body_scan_meditation.jpg"
         },
         {
             "emoji": "🌀",
@@ -530,7 +530,7 @@
             "description": "Combines specific breath patterns, mudras, mantras, and eye positions in timed sequences to awaken latent energy at the base of the spine.",
             "benefits": ["Activates dormant energy centers", "Produces profound altered states", "Transforms habitual mental patterns"],
             "difficulty": "Advanced",
-            "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400"
+            "image": "images/kundalini_meditation.jpg"
         },
         {
             "emoji": "🚶",
@@ -538,7 +538,7 @@
             "description": "Walk at an extremely slow pace, synchronizing each small step with the breath and maintaining full attention on the sensation of movement.",
             "benefits": ["Integrates mindfulness into daily movement", "Grounds scattered or anxious energy", "Accessible for those unable to sit still"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1603988363607-e1e4a66962c6?w=400"
+            "image": "images/walking_meditation.jpg"
         },
         {
             "emoji": "🎵",
@@ -546,7 +546,7 @@
             "description": "Immerse in sustained tones from singing bowls, gongs, or drones. Breathe slowly and allow the vibrations to dissolve mental chatter.",
             "benefits": ["Deeply relaxes the nervous system via sound resonance", "Reduces cortisol and muscle tension", "Facilitates theta brainwave states"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?w=400"
+            "image": "images/sound_bath.jpg"
         },
         {
             "emoji": "☁️",
@@ -554,7 +554,7 @@
             "description": "Lie in savasana and follow guided prompts through the hypnagogic state between waking and sleep, maintaining a thread of conscious awareness.",
             "benefits": ["One hour equals four hours of sleep in restoration", "Heals trauma and emotional wounds", "Reprograms subconscious beliefs"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1575052814086-f385e2e2ad1b?w=400"
+            "image": "images/yoga_nidra.jpg"
         },
         {
             "emoji": "🌬️",
@@ -562,7 +562,7 @@
             "description": "Breathe in for exactly 5 seconds and out for exactly 5 seconds — roughly 6 breaths per minute — the optimal rate for heart rate variability.",
             "benefits": ["Maximizes heart rate variability", "Synchronizes respiratory and cardiovascular systems", "Reduces PTSD and depression symptoms"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=400"
+            "image": "images/coherent_breathing.png"
         },
         {
             "emoji": "🪬",
@@ -570,7 +570,7 @@
             "description": "Sit in precise posture on a zafu, eyes half-open downward, simply allowing thoughts to arise and dissolve without engagement — just sitting.",
             "benefits": ["Cultivates profound stillness and 'just being'", "Dissolves the boundary between meditator and meditation", "Develops iron-willed mental discipline"],
             "difficulty": "Advanced",
-            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400"
+            "image": "images/zen_sitting.jpg"
         },
         {
             "emoji": "💨",
@@ -578,7 +578,7 @@
             "description": "Forceful, rapid inhales AND exhales through the nose driven by full chest and belly expansion, like a blacksmith's bellows. Done in rounds of 20.",
             "benefits": ["Supercharges the body with oxygen", "Clears stagnant energy from the lungs", "Prepares body for deeper pranayama"],
             "difficulty": "Intermediate",
-            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400"
+            "image": "images/bellows_breath.jpg"
         },
         {
             "emoji": "🌕",
@@ -586,7 +586,7 @@
             "description": "Sit under the open sky or by a window and let awareness expand in all directions simultaneously, like the light of the full moon — receiving everything, grasping nothing.",
             "benefits": ["Dissolves the sense of a bounded self", "Cultivates non-dual open awareness", "Deeply restoring and expansive"],
             "difficulty": "Advanced",
-            "image": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400"
+            "image": "images/full_moon_meditation.jpg"
         },
         {
             "emoji": "⚗️",
@@ -594,7 +594,7 @@
             "description": "Tibetan tantric practice combining breath retentions, visualizations of inner flame at the navel, and body locks (bandhas) to generate intense internal heat.",
             "benefits": ["Generates powerful physical warmth", "Awakens subtle body energies", "Foundation of all Tibetan completion-stage practices"],
             "difficulty": "Advanced",
-            "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=400"
+            "image": "images/tummo_meditation.jpg"
         },
         {
             "emoji": "🌿",
@@ -602,7 +602,7 @@
             "description": "The original breath meditation taught by the Buddha — simply observe the natural breath at the nostrils, noticing each inhale, exhale, and the pauses between.",
             "benefits": ["Foundational path to liberation in Buddhist tradition", "Develops profound present-moment awareness", "Gradually stills all mental agitation"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400"
+            "image": "images/breath_awareness.jpg"
         }
     ]
 },
