@@ -213,7 +213,7 @@
             "description": "Begin with feet together, arms hanging naturally. Slowly raise arms to shoulder height, then lower while bending knees.",
             "benefits": ["Calms the mind and centers energy", "Establishes proper breathing", "Prepares body for movement"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400"
+            "image": "images/commencing_form.jpg"
         },
         {
             "emoji": "🐴",
@@ -221,7 +221,7 @@
             "description": "Step with alternating legs while moving arms in a circular motion, as if parting a horse's mane.",
             "benefits": ["Improves leg strength and balance", "Coordinates upper and lower body", "Enhances flexibility in hips"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400"
+            "image": "images/part_the_wild_horses_mane.jpg"
         },
         {
             "emoji": "🦩",
@@ -229,7 +229,7 @@
             "description": "Shift weight to one leg while raising opposite arm high and lowering the other, mimicking a crane.",
             "benefits": ["Develops single-leg balance", "Opens chest and shoulders", "Improves coordination"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400"
+            "image": "images/white_crane_spreads_wings.jpg"
         },
         {
             "emoji": "🦵",
@@ -237,7 +237,7 @@
             "description": "Step forward while brushing hand past knee in a circular motion and pushing opposite palm forward.",
             "benefits": ["Strengthens legs and knees", "Improves waist flexibility", "Develops pushing power"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=400"
+            "image": "images/brush_knee_and_twist_step.jpg"
         },
         {
             "emoji": "🎵",
@@ -245,7 +245,7 @@
             "description": "Shift weight back while bringing hands together in front of body, like holding a Chinese lute.",
             "benefits": ["Cultivates stillness in motion", "Improves balance and posture", "Develops sensitivity in arms"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400"
+            "image": "images/playing_the_pipa.jpg"
         },
         {
             "emoji": "🔄",
@@ -253,7 +253,7 @@
             "description": "Step back while circling arms in a rolling motion, alternating sides.",
             "benefits": ["Strengthens forearms and wrists", "Improves backward stepping", "Develops defensive techniques"],
             "difficulty": "Intermediate",
-            "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400"
+            "image": "images/reverse_reeling_forearm.jpg"
         },
         {
             "emoji": "🪶",
@@ -261,7 +261,7 @@
             "description": "Circular movement incorporating ward off, roll back, press, and push on the left side.",
             "benefits": ["Comprehensive exercise for whole body", "Develops core Tai Chi energies", "Improves pushing and yielding skills"],
             "difficulty": "Intermediate",
-            "image": "https://images.unsplash.com/photo-1603988363607-e1e4a66962c6?w=400"
+            "image": "images/left_grasp_birds_tail.jpg"
         },
         {
             "emoji": "🕊️",
@@ -269,7 +269,7 @@
             "description": "Same as movement 7, performed on the right side.",
             "benefits": ["Balances left and right sides", "Reinforces fundamental techniques", "Develops bilateral coordination"],
             "difficulty": "Intermediate",
-            "image": "https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?w=400"
+            "image": "images/right_grasp_birds_tail.jpg"
         },
         {
             "emoji": "🤸",
@@ -277,7 +277,7 @@
             "description": "Extend one arm out as a 'hook' hand while the other palm pushes forward, stepping wide into a bow stance.",
             "benefits": ["Stretches entire body laterally", "Develops 'peng' (ward-off) energy", "Strengthens legs in wide stance"],
             "difficulty": "Intermediate",
-            "image": "https://images.unsplash.com/photo-1575052814086-f385e2e2ad1b?w=400"
+            "image": "images/single_whip.jpg"
         },
         {
             "emoji": "🌊",
@@ -285,7 +285,7 @@
             "description": "Shift weight side to side while hands move in slow, overlapping horizontal circles at chest and waist height.",
             "benefits": ["Loosens waist and hips", "Develops fluid whole-body movement", "Improves lateral balance"],
             "difficulty": "Intermediate",
-            "image": "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=400"
+            "image": "images/wave_hands_like_clouds.jpg"
         },
         {
             "emoji": "🤸",
@@ -293,7 +293,7 @@
             "description": "Repeat of Single Whip, consolidating the technique on both sides from Cloud Hands transition.",
             "benefits": ["Reinforces Single Whip technique", "Builds consistency in hook hand", "Transitions smoothly from cloud hands"],
             "difficulty": "Intermediate",
-            "image": "https://images.unsplash.com/photo-1575052814086-f385e2e2ad1b?w=400"
+            "image": "images/single_whip.jpg"
         },
         {
             "emoji": "🦅",
@@ -301,7 +301,7 @@
             "description": "Shift weight back while one hand sweeps down and the other rises to press forward at face height, as if patting a tall horse.",
             "benefits": ["Improves upper-body coordination", "Develops forward press technique", "Strengthens rear leg stance"],
             "difficulty": "Intermediate",
-            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400"
+            "image": "images/high_pat_on_horse.jpg"
         },
         {
             "emoji": "👟",
@@ -309,7 +309,7 @@
             "description": "Bring hands together in front of chest, then separate them outward while kicking with the right heel.",
             "benefits": ["Strengthens hip flexors", "Develops balance on one leg", "Improves kicking power and precision"],
             "difficulty": "Advanced",
-            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400"
+            "image": "images/right_heel_kick.jpg"
         },
         {
             "emoji": "🥊",
@@ -317,7 +317,7 @@
             "description": "Drop into bow stance while both fists arc inward to strike simultaneously at ear level.",
             "benefits": ["Develops bilateral striking coordination", "Builds arm and shoulder strength", "Improves offensive power"],
             "difficulty": "Advanced",
-            "image": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400"
+            "image": "images/strike_opponents_ears_with_fists.jpg"
         },
         {
             "emoji": "🦶",
@@ -325,7 +325,7 @@
             "description": "Mirror of movement 13 — hands come together then separate as the left heel kicks outward.",
             "benefits": ["Balances right-side kicking", "Challenges single-leg stability", "Develops left-side power"],
             "difficulty": "Advanced",
-            "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=400"
+            "image": "images/right_heel_kick.jpg"
         },
         {
             "emoji": "🐍",
@@ -333,7 +333,7 @@
             "description": "Sink deeply into a low squat along one leg while the other extends, then rise into a single-leg stand with knee raised.",
             "benefits": ["Builds deep leg and hip strength", "Improves extreme low-stance flexibility", "Develops explosive rising power"],
             "difficulty": "Advanced",
-            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400"
+            "image": "images/snake_creeps_down.jpg"
         },
         {
             "emoji": "🐓",
@@ -341,7 +341,7 @@
             "description": "Repeat of the Snake Creeps Down transition, rising into a single-leg stand on the right side.",
             "benefits": ["Balances left-side golden cock", "Reinforces single-leg rooting", "Strengthens right hip flexors"],
             "difficulty": "Advanced",
-            "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400"
+            "image": "images/golden_cock_stands_on_right_leg.jpg"
         },
         {
             "emoji": "🔃",
@@ -349,7 +349,7 @@
             "description": "Alternating diagonal steps with one arm raised overhead to block and the other pushing forward, performed on four corners.",
             "benefits": ["Develops diagonal movement skill", "Coordinates blocking and striking", "Improves multi-directional awareness"],
             "difficulty": "Advanced",
-            "image": "https://images.unsplash.com/photo-1603988363607-e1e4a66962c6?w=400"
+            "image": "images/fair_lady_works_shuttles.jpg"
         },
         {
             "emoji": "🪡",
@@ -357,7 +357,7 @@
             "description": "Shift weight back and dip forward with one hand pointing straight down toward the ground, like threading a needle into the sea.",
             "benefits": ["Stretches spine and hamstrings", "Develops downward pointing technique", "Improves focus and precision"],
             "difficulty": "Intermediate",
-            "image": "https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?w=400"
+            "image": "images/needle_at_sea_bottom.jpg"
         },
         {
             "emoji": "🌀",
@@ -365,7 +365,7 @@
             "description": "Rise from needle posture, step forward, and raise both arms — one overhead and one to the side — in an expansive open posture.",
             "benefits": ["Opens chest and lungs fully", "Develops upward expansive energy", "Transitions power from low to high"],
             "difficulty": "Intermediate",
-            "image": "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=400"
+            "image": "images/flash_the_back.jpg"
         },
         {
             "emoji": "👊",
@@ -373,7 +373,7 @@
             "description": "Pivot to turn around, deflect an incoming strike, parry with one arm, then deliver a straight punch.",
             "benefits": ["Integrates turning with striking", "Develops combat application awareness", "Trains sequential defensive techniques"],
             "difficulty": "Advanced",
-            "image": "https://images.unsplash.com/photo-1575052814086-f385e2e2ad1b?w=400"
+            "image": "images/turn_deflect_parry_and_punch.jpg"
         },
         {
             "emoji": "🤲",
@@ -381,7 +381,7 @@
             "description": "Withdraw both hands under the extended arm, then push both palms forward explosively into a bow stance.",
             "benefits": ["Develops two-handed push power", "Trains withdraw-then-release technique", "Builds whole-body coordinated force"],
             "difficulty": "Intermediate",
-            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400"
+            "image": "images/apparent_close_up.jpg"
         },
         {
             "emoji": "✋",
@@ -389,7 +389,7 @@
             "description": "Step to shoulder width while crossing both wrists in front of the chest, then open slightly in a calm, centered posture.",
             "benefits": ["Settles and integrates energy", "Returns to a centered, balanced state", "Prepares body for closing form"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400"
+            "image": "images/cross_hands.jpg"
         },
         {
             "emoji": "🌙",
@@ -397,7 +397,7 @@
             "description": "Lower arms slowly to sides while straightening the legs, returning to the natural standing posture of the commencing form.",
             "benefits": ["Consolidates and seals in qi", "Returns body to resting equilibrium", "Completes the meditative cycle"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=400"
+            "image": "images/closing_form.jpg"
         }
     ]
     },
