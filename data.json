@@ -3,20 +3,20 @@
         "title": "Yoga Poses",
         "items": [
         {
-            "emoji": "🧘",
+            "emoji": "🗻",
             "title": "Mountain Pose (Tadasana)",
             "description": "Stand tall with feet together, arms at sides. Ground through your feet and lengthen through the crown of your head.",
             "benefits": ["Improves posture and body awareness", "Strengthens thighs, knees, and ankles", "Reduces flat feet"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400"
+            "image": "images/moutain_pose.jpg"
         },
         {
-            "emoji": "🙏",
+            "emoji": "🐶",
             "title": "Downward Dog (Adho Mukha Svanasana)",
             "description": "Form an inverted V-shape with your body, hands and feet on the ground, hips lifted high.",
             "benefits": ["Energizes the body", "Strengthens arms and legs", "Relieves back pain"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400"
+            "image": "images/downward_dog.webp"
         },
         {
             "emoji": "🌳",
@@ -24,7 +24,7 @@
             "description": "Balance on one leg with the other foot placed on inner thigh, hands in prayer position or overhead.",
             "benefits": ["Improves balance and stability", "Strengthens legs and core", "Enhances focus and concentration"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400"
+            "image": "images/Vrksasana.webp"
         },
         {
             "emoji": "⚡",
@@ -32,23 +32,23 @@
             "description": "Lunge position with front knee bent, back leg straight, arms extended overhead.",
             "benefits": ["Builds strength in legs and core", "Opens hips and chest", "Improves balance and concentration"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=400"
+            "image": "images/warrior_I.jpg"
         },
         {
-            "emoji": "🦅",
+            "emoji": "🧘",
             "title": "Child's Pose (Balasana)",
             "description": "Kneel and sit back on heels, fold forward with arms extended, forehead resting on the ground.",
             "benefits": ["Gently stretches hips and thighs", "Calms the mind and relieves stress", "Relieves back and neck pain"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400"
+            "image": "images/child_pose.webp"
         },
         {
-            "emoji": "🌙",
+            "emoji": "🐍",
             "title": "Cobra Pose (Bhujangasana)",
             "description": "Lie face down, press through hands to lift chest, keeping hips on the ground.",
             "benefits": ["Strengthens spine and shoulders", "Opens chest and lungs", "Relieves stress and fatigue"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400"
+            "image": "images/cobra_pose.webp"
         },
         {
             "emoji": "⚔️",
@@ -56,7 +56,7 @@
             "description": "Wide-legged stance with front knee bent over ankle, arms extended parallel to the floor, gaze over front hand.",
             "benefits": ["Strengthens legs, groin, and shoulders", "Stimulates abdominal organs", "Increases stamina and endurance"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1603988363607-e1e4a66962c6?w=400"
+            "image": "images/warrior_II.jpg"
         },
         {
             "emoji": "🌟",
@@ -64,7 +64,7 @@
             "description": "Balance on one leg while torso and raised leg form a horizontal T-shape, arms extended forward or at sides.",
             "benefits": ["Builds full-body balance and stability", "Tones the abdomen and legs", "Improves posture and proprioception"],
             "difficulty": "Intermediate",
-            "image": "https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?w=400"
+            "image": "images/warrior_III.jpg"
         },
         {
             "emoji": "🔺",
@@ -72,7 +72,7 @@
             "description": "Wide-legged stance, reach one hand down to shin or floor and the other arm straight up, forming a triangle with the body.",
             "benefits": ["Stretches hips, groins, and hamstrings", "Strengthens thighs and back", "Stimulates digestion"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1575052814086-f385e2e2ad1b?w=400"
+            "image": "images/triangle_pose.webp"
         },
         {
             "emoji": "🌙",
@@ -80,7 +80,7 @@
             "description": "Balance on one hand and one foot, body parallel to the floor, top arm and leg extended upward.",
             "benefits": ["Strengthens ankles, legs, and spine", "Improves coordination and balance", "Relieves stress and mild anxiety"],
             "difficulty": "Intermediate",
-            "image": "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=400"
+            "image": "images/half_moon_pose.jpg"
         },
         {
             "emoji": "🪑",
@@ -88,7 +88,7 @@
             "description": "Bend knees as if sitting in an invisible chair, arms raised overhead, weight in heels.",
             "benefits": ["Strengthens thighs, calves, and spine", "Stimulates heart and diaphragm", "Builds heat and endurance"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400"
+            "image": "images/chair_pose.webp"
         },
         {
             "emoji": "🦋",
@@ -96,7 +96,7 @@
             "description": "Sit with soles of feet pressed together and knees falling out to sides, gently fluttering knees up and down.",
             "benefits": ["Opens inner thighs and groin", "Stimulates reproductive organs", "Soothes sciatica discomfort"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400"
+            "image": "images/butterfly_pose.avif"
         },
         {
             "emoji": "🐪",
@@ -104,7 +104,7 @@
             "description": "Kneel upright and arch backward, hands reaching for heels, chest lifted toward the ceiling.",
             "benefits": ["Deeply opens the chest and hip flexors", "Strengthens back muscles", "Stimulates nervous system"],
             "difficulty": "Intermediate",
-            "image": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400"
+            "image": "images/camel_pose.webp"
         },
         {
             "emoji": "🌈",
@@ -112,7 +112,7 @@
             "description": "Lie on back, bend knees with feet flat on floor, lift hips toward ceiling while clasping hands beneath body.",
             "benefits": ["Strengthens glutes and hamstrings", "Opens chest and shoulders", "Calms brain and reduces anxiety"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=400"
+            "image": "images/bridge_pose.jpg"
         },
         {
             "emoji": "🔥",
@@ -120,15 +120,15 @@
             "description": "Balance on sitting bones with legs extended at 45 degrees and arms parallel to the floor, forming a V-shape.",
             "benefits": ["Deeply strengthens core and hip flexors", "Improves balance and digestion", "Stimulates kidneys and thyroid"],
             "difficulty": "Intermediate",
-            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400"
+            "image": "images/boat_pose.jpg"
         },
         {
-            "emoji": "🦁",
+            "emoji": "🕊️",
             "title": "Pigeon Pose (Eka Pada Rajakapotasana)",
             "description": "From downward dog, bring one knee forward behind wrist, extend back leg straight, fold forward over front shin.",
             "benefits": ["Deeply releases hip flexors and rotators", "Alleviates sciatic nerve tension", "Reduces anxiety held in hips"],
             "difficulty": "Intermediate",
-            "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=400"
+            "image": "images/pigeon_pose.jpg"
         },
         {
             "emoji": "🌊",
@@ -136,7 +136,7 @@
             "description": "Sit with legs extended, hinge at hips to fold forward, reaching hands toward feet while keeping spine long.",
             "benefits": ["Stretches entire posterior chain", "Calms the nervous system", "Improves digestion and appetite"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1603988363607-e1e4a66962c6?w=400"
+            "image": "images/seated_forward_fold.jpeg"
         },
         {
             "emoji": "🔄",
@@ -144,7 +144,7 @@
             "description": "Sit with one leg extended, cross opposite foot over knee, twist torso toward raised knee with elbow as leverage.",
             "benefits": ["Detoxifies organs through compression and release", "Increases spinal mobility", "Stimulates liver and kidneys"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1593811167562-9cef47bfc4d7?w=400"
+            "image": "images/seated_spinal_twist.jpg"
         },
         {
             "emoji": "🦅",
@@ -152,7 +152,7 @@
             "description": "Balance on one leg, wrap opposite leg around standing leg, and cross arms at elbows with forearms intertwined.",
             "benefits": ["Strengthens calves and ankles", "Stretches shoulders and upper back", "Improves concentration and focus"],
             "difficulty": "Intermediate",
-            "image": "https://images.unsplash.com/photo-1575052814086-f385e2e2ad1b?w=400"
+            "image": "images/eagle_pose.jpeg"
         },
         {
             "emoji": "🤸",
@@ -160,7 +160,7 @@
             "description": "Lie on back, plant hands beside ears and feet flat on floor, press up into a full backbend arch.",
             "benefits": ["Strengthens arms, wrists, legs, and spine", "Stimulates thyroid and pituitary glands", "Energizes and uplifts mood"],
             "difficulty": "Advanced",
-            "image": "https://images.unsplash.com/photo-1588286840104-8957b019727f?w=400"
+            "image": "images/wheel_pose.jpg"
         },
         {
             "emoji": "🙃",
@@ -168,7 +168,7 @@
             "description": "Interlace fingers on the floor, place crown of head between hands, walk feet in and lift legs straight overhead.",
             "benefits": ["Builds shoulder and core strength", "Reverses blood flow to refresh circulation", "Calms mind and reduces stress"],
             "difficulty": "Advanced",
-            "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400"
+            "image": "images/headstand.jpeg"
         },
         {
             "emoji": "🕊️",
@@ -176,15 +176,15 @@
             "description": "Lie on back and lift legs and hips straight up, supporting lower back with hands, chin tucked to chest.",
             "benefits": ["Stimulates thyroid and parathyroid glands", "Calms the nervous system", "Relieves fatigue and insomnia"],
             "difficulty": "Advanced",
-            "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=400"
+            "image": "images/shoulder_stand.jpeg"
         },
         {
-            "emoji": "💪",
+            "emoji": "🦉",
             "title": "Crow Pose (Bakasana)",
             "description": "Squat and plant hands shoulder-width apart, place knees on backs of upper arms, lean forward to balance on hands.",
             "benefits": ["Builds arm and wrist strength", "Tones abdominal organs", "Develops focus and mental fortitude"],
             "difficulty": "Advanced",
-            "image": "https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=400"
+            "image": "images/crow_pose.webp"
         },
         {
             "emoji": "🌞",
@@ -192,7 +192,7 @@
             "description": "Lie face down, press through palms to lift chest and thighs fully off the ground, shoulders over wrists.",
             "benefits": ["Strengthens spine, arms, and wrists", "Stimulates abdominal organs", "Improves posture and opens chest"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1552196563-55cd4e45efb3?w=400"
+            "image": "images/upward_facing_dog.webp"
         },
         {
             "emoji": "🧊",
@@ -200,7 +200,7 @@
             "description": "Lie flat on back, legs slightly apart, arms at sides with palms up, eyes closed in total relaxation.",
             "benefits": ["Integrates the benefits of the practice", "Deeply relaxes the nervous system", "Reduces blood pressure and anxiety"],
             "difficulty": "Beginner",
-            "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=400"
+            "image": "images/corpse_pose.jpg"
         }
     ]
     },
