@@ -718,149 +718,28 @@
                 ]
             },
             {
-                "emoji": "🐍",
-                "title": "Snake Roll",
-                "description": "Lie on the ground and use undulating spinal waves to roll and travel, initiating movement from the hips or shoulders without using hands or feet.",
-                "difficulty": "Advanced",
-                "image": "",
-                "benefits": [
-                    "Spinal segmental mobility and awareness",
-                    "Core activation without limb support",
-                    "Develops body wave and flow mechanics"
-                ]
-            },
-            {
-                "emoji": "🐢",
-                "title": "Turtle Roll",
-                "description": "Curl into a tight ball on your back (shell position), then use momentum and core control to roll onto your front and back again without using hands.",
-                "difficulty": "Beginner",
-                "image": "",
-                "benefits": [
-                    "Spinal mobility and flexion control",
-                    "Vestibular system development",
-                    "Teaches falling and recovery mechanics"
-                ]
-            },
-            {
-                "emoji": "🦁",
-                "title": "Lion Stretch",
-                "description": "From a low lunge position, sink hips deep and extend arms forward along the ground like a lion stretching after rest, then push up into an arching backbend.",
-                "difficulty": "Beginner",
-                "image": "",
-                "benefits": [
-                    "Hip flexor and thoracic extension stretch",
-                    "Chest and shoulder opening",
-                    "Active recovery and cooldown movement"
-                ]
-            },
-            {
-                "emoji": "🐙",
-                "title": "Octopus Roll",
-                "description": "From seated, roll to one side using fluid, circular limb movements, transitioning through positions while keeping constant multi-directional motion.",
-                "difficulty": "Advanced",
-                "image": "",
-                "benefits": [
-                    "Multi-planar rotational mobility",
-                    "Flow state and creative movement",
-                    "Spatial awareness and limb independence"
-                ]
-            },
-            {
-                "emoji": "🦘",
-                "title": "Kangaroo Bound",
-                "description": "From standing, drop into a squat and perform consecutive broad jumps with powerful hip extension, swinging arms for momentum.",
-                "difficulty": "Intermediate",
-                "image": "",
-                "benefits": [
-                    "Plyometric power and elastic recoil",
-                    "Hip and knee joint loading capacity",
-                    "Cardiovascular conditioning"
-                ]
-            },
-            {
-                "emoji": "🦩",
-                "title": "Flamingo Stand",
-                "description": "Balance on one leg with eyes closed while performing slow, controlled arm and free-leg movements in all three planes of motion.",
-                "difficulty": "Beginner",
-                "image": "",
-                "benefits": [
-                    "Proprioception and ankle stability",
-                    "Single-leg balance endurance",
-                    "Vestibular system training"
-                ]
-            },
-            {
-                "emoji": "🐉",
-                "title": "Dragon Twist",
-                "description": "From a deep lunge, rotate your torso toward the front leg, reaching the top arm skyward. Flow between sides in a continuous, spiraling pattern.",
-                "difficulty": "Intermediate",
-                "image": "",
-                "benefits": [
-                    "Deep hip flexor and hamstring stretch",
-                    "Thoracic rotation under load",
-                    "Integrates strength with flexibility"
-                ]
-            },
-            {
-                "emoji": "🐛",
-                "title": "Inchworm Walk",
-                "description": "From standing, fold forward and walk hands out to a push-up position, then walk feet toward hands. Repeat in a continuous wave-like motion.",
-                "difficulty": "Beginner",
-                "image": "",
-                "benefits": [
-                    "Posterior chain flexibility",
-                    "Core stabilization during transitions",
-                    "Dynamic warm-up and movement prep"
-                ]
-            },
-            {
-                "emoji": "🐎",
-                "title": "Horse Stance Walk",
-                "description": "Hold a wide, low horse stance and walk laterally with controlled steps, keeping hips level and thighs parallel to the ground.",
-                "difficulty": "Intermediate",
-                "image": "",
-                "benefits": [
-                    "Isometric leg strength and endurance",
-                    "Adductor and hip stability",
-                    "Mental toughness and breath control"
-                ]
-            },
-            {
-                "emoji": "🦈",
-                "title": "Shark Roll",
-                "description": "From a prone position, initiate a powerful lateral roll using a full body wave, transitioning seamlessly between prone and supine.",
-                "difficulty": "Advanced",
-                "image": "",
-                "benefits": [
-                    "Ground flow and transitional skill",
-                    "Oblique and lateral chain strength",
-                    "Body control at ground level"
-                ]
-            },
-            {
-                "emoji": "🦎",
-                "title": "Chameleon Reach",
-                "description": "From a low squat, slowly extend one leg behind while reaching the opposite arm far forward, holding the end position with stillness and control.",
-                "difficulty": "Intermediate",
-                "image": "",
-                "benefits": [
-                    "Single-leg squat strength",
-                    "Contralateral balance and stability",
-                    "Patience and positional control"
-                ]
-            },
-            {
-                "emoji": "🐂",
-                "title": "Bull Rush",
-                "description": "From a bent-over position, drive forward explosively with short, powerful steps, hands near the ground, simulating a charging motion.",
-                "difficulty": "Advanced",
-                "image": "",
-                "benefits": [
-                    "Explosive acceleration and drive",
-                    "Posterior chain power output",
-                    "Conditioning and anaerobic capacity"
-                ]
-            }
+    "emoji": "🦆",
+    "title": "Duck Walk",
+    "description": "Low squat locomotion with hips below knee level. Stay on the balls of your feet, chest upright, and take small controlled steps forward while maintaining balance.",
+    "difficulty": "Beginner",
+    "image": "images/duckwalk.jpg",
+    "benefits": [
+        "Strengthens quads, glutes, and ankles",
+        "Improves hip and ankle mobility",
+        "Builds lower body endurance"
+    ]
+},{
+    "emoji": "🦐",
+    "title": "Shrimp (BJJ Hip Escape)",
+    "description": "Lie on your back, push off one foot, and slide your hips away from your opponent while keeping your shoulders on the ground. Alternate sides to move forward or backward.",
+    "difficulty": "Beginner",
+    "image": "images/shrimp_bjj.jpg",
+    "benefits": [
+        "Strengthens core and hip muscles",
+        "Improves mobility and escape ability",
+        "Essential for ground control in BJJ"
+    ]
+}
         ]
     }
 }
