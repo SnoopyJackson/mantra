@@ -55,6 +55,12 @@ function renderTiles(category) {
                 </ul>
             </div>
         `;
+
+        tile.style.cursor = 'pointer';
+        tile.addEventListener('click', () => {
+            const query = encodeURIComponent(item.title);
+            window.open(`https://www.youtube.com/results?search_query=${query}`, '_blank');
+        });
         
         tilesContainer.appendChild(tile);
     });
